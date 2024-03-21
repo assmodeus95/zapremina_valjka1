@@ -1,0 +1,28 @@
+input {
+    width: 100px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+button {
+    width: 60%;
+    color: blue;
+    display: block;
+    height: 30px;
+    border: 2px solid rgb(0, 0, 174);
+    cursor: pointer;
+}
+#box {
+    border: solid 3px rgb(72, 72, 72);
+    background-color: gray;
+}
+body {
+    background-color: rgb(156, 156, 156);
+}
+
+#rezultat {
+    background-color: white;
+    width: 200px;
+}
